@@ -44,12 +44,12 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
+ul.posts ul.papers{ 
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
-ul.posts li {
+ul.posts li, ul.papers li {
     list-style: none;
 }
 img {
