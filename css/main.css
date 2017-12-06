@@ -8,6 +8,10 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
+footer table td, footer table th{
+    text-align: center;
+    width: 25%;
+}
 nav ul li, footer ul {
     display: inline;
     margin-right: 20px;
