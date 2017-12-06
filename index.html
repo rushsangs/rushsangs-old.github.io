@@ -8,4 +8,10 @@ title: Rush Sanghrajka
 	<img src="images/profile.jpg" width="200px"/>
 	</div>
 	<p style="text-align:center">I'm currently a PhD student at the University of Utah, and my research deals with Computational Narratives and Computer-assisted storytelling. Read more about me <a href="/about">here</a> or check out my <a href="/publications">publications.</a></p>
+	<ul class="papers">
+	  {% for paper in site.papers %}
+	  	<li>I'm trying ok</li>
+	    <li <a href="{{ paper.filename }}" title="{{ paper.title }}">{{ paper.title }}</a></li>
+	  {% endfor %}
+	</ul>
 </div><!-- /.blurb -->
