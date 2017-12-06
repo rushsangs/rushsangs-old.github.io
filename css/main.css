@@ -20,6 +20,9 @@ footer li{
     display: block;
     margin-right:20px; 
 }
+footer table th{
+     font-size: 1.5em;
+}
 a {
     text-decoration: none;
     color: #999;
