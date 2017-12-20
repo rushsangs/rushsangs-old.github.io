@@ -12,6 +12,7 @@ title: Publications
 				<li>{{ post.title }}<br/>
 				{% else %}
 	    		<li> <a href="{{ post.filename }}" title="{{ post.title }}">{{ post.title }}</a>
+	    		{% endif %}
 	    	<br/> {{post.authors}}<br/>{{post.details}}</li>
 	    	<br/>
 			{% endif %}
