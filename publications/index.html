@@ -8,7 +8,11 @@ title: Publications
 
 	  {% for post in site.posts %}
 			{% if post.categories contains 'publications' %}
-	    	<li> <a href="{{ post.filename }}" title="{{ post.title }}">{{ post.title }}</a> <br/> {{post.authors}}<br/>{{post.details}}</li>
+				{% if post.filename contains 'none' %}
+				<li>{{ post.title }}<br/>
+				{% else %}
+	    		<li> <a href="{{ post.filename }}" title="{{ post.title }}">{{ post.title }}</a>
+	    	<br/> {{post.authors}}<br/>{{post.details}}</li>
 	    	<br/>
 			{% endif %}
 	  {% endfor %}
