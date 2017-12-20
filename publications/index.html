@@ -9,7 +9,7 @@ title: Publications
 	  {% for post in site.posts %}
 			{% if post.categories contains 'publications' %}
 				{% if post.filename contains 'none' %}
-				<li>{{ post.title }}<br/>
+				<li>{{ post.title }}
 				{% else %}
 	    		<li> <a href="{{ post.filename }}" title="{{ post.title }}">{{ post.title }}</a>
 	    		{% endif %}
