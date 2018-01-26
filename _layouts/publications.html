@@ -1,0 +1,12 @@
+---
+layout: default
+title: Publications
+---
+	<h1>{{ page.title }}</h1>
+	<ul class="papers">
+
+	  {% for paper in site.papers %}
+	  	<li>I'm trying ok</li>
+	    <li <a href="{{ paper.filename }}" title="{{ paper.title }}">{{ paper.title }}</a></li>
+	  {% endfor %}
+	</ul>
