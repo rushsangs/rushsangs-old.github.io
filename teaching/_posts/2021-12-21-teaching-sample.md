@@ -5,7 +5,7 @@ authors: "Marcel Marti, Jodok Vieli, Wojciech Witon, Rushit Sanghrajka, Daniel I
 details: "ACM Conference on Intelligent User Interfaces (IUI), 2018."
 category: video
 date: 2021-12-21
-linktovid: https://youtu.be/up6f72oDzb0
+linktovid: https://youtube.com/embed/up6f72oDzb0
 ---
 
 [Paper]({{ "/papers/cardinal-6.pdf)" }})
