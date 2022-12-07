@@ -12,8 +12,7 @@ title: Teaching
 				{% if post.filename contains 'none' %}
 				<li>{{ post.title }}
 				{% else %}
-	    		<li><h3>{{ post.title }}</h3>
-	    			<a href="{{ post.filename }}" title="{{ post.title }}">Click here to view.</a>
+	    		<li><h3><a href="{{ post.filename }}" title="{{ post.title }}">{{ post.title }}</a></h3>
 	    		{% endif %}
 	    	{{post.details}}</li>
 	    	<br/>
@@ -23,7 +22,7 @@ title: Teaching
 				<li>{{ post.title }}
 				{% else %}
 	    		<li> <h3>{{ post.title }}</h3>
-	    			{{post.details}}
+	    			{{post.details}} <br/>
 	    			<iframe width="420" height="315" src="{{ post.linktovid }}" frameborder="0" allowfullscreen></iframe>
 	    		{% endif %}
 	    	</li>
