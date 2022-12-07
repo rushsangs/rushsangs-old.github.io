@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "dasdas"
 category: blog
 date: 2014-04-30
 ---
