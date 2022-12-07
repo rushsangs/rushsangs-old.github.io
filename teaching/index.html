@@ -1,19 +1,28 @@
 ---
 layout: default
-title: Publications
+title: Teaching
 ---
 	<h1>{{ page.title }}</h1>
+	<p style="text-align:center">I really enjoy teaching and mentoring students. I have experience with facilitating study groups, designing learning content for active-learning, and teaching small and large university-level courses. Browse through some of my teaching portfolio below:</p>
 	<ul class="posts">
 
 
 	  {% for post in site.posts %}
-			{% if post.categories contains 'publications' %}
+			{% if post.categories contains 'pdf' %}
 				{% if post.filename contains 'none' %}
 				<li>{{ post.title }}
 				{% else %}
 	    		<li> <a href="{{ post.filename }}" title="{{ post.title }}">{{ post.title }}</a>
 	    		{% endif %}
 	    	<br/> {{post.authors}}<br/>{{post.details}}</li>
+	    	<br/>
+			{% endif %}
+			{% if post.categories contains 'video' %}
+				{% if post.filename contains 'none' %}
+				<li>{{ post.title }}
+				{% else %}
+	    		<li> <iframe width="420" height="315" src="{{ post.url }}" frameborder="0" allowfullscreen></iframe>
+	    		{% endif %}
 	    	<br/>
 			{% endif %}
 	  {% endfor %}
