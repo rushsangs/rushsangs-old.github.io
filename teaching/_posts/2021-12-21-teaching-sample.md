@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Teaching Sample: Strings, Programming for All 1, Remote Instruction, Fall 2021, Unviersity of Utah Asia Campus"
-authors: "Marcel Marti, Jodok Vieli, Wojciech Witon, Rushit Sanghrajka, Daniel Inversini, Diana Wotruba, Isabel Simo, Sasha Schriber, Markus Gross, Mubbasir Kapadia"
-details: "ACM Conference on Intelligent User Interfaces (IUI), 2018."
+title: "Teaching Sample Fall 2021"
+details: "Topic: Strings, Course: Programming for All 1, Fall 2021, Unviersity of Utah Asia Campus, Type: Remote Instruction"
 category: video
 date: 2021-12-21
 linktovid: https://youtube.com/embed/up6f72oDzb0
