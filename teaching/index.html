@@ -12,7 +12,7 @@ title: Teaching
 				{% if post.filename contains 'none' %}
 				<li>{{ post.title }}
 				{% else %}
-	    		<li> <a href="{{ post.filename }}" title="{{ post.title }}">{{ post.title }}</a>
+	    		<li> {{ post.title }}
 	    		{% endif %}
 	    	<br/> {{post.authors}}<br/>{{post.details}}</li>
 	    	<br/>
