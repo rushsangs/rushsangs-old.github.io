@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/abc/Desktop/Website"
+		}
+	],
+	"settings":
+    {
+        "Jekyll":
+        {
+            "jekyll_posts_path": "/Users/abc/Desktop/Website/rushsangs.github.io/_posts",
+            "jekyll_uploads_path": "/Users/abc/Desktop/Website/rushsangs.github.io/uploads"
+        }
+    }
+}
