@@ -3,9 +3,8 @@ title: Intro to Artificial Intelligence, Spring 2019
 layout: post
 category: teaching
 thumbnail: "/uploads/IntroToAI/slides-thumbnail.png"
-excerpt: "Slides for my guest lectures when doing my teaching mentorship at University of Utah for the undergraduate Artificial Intelligence course"
 ---
-As part of the teaching mentorship at University of Utah, I served as Teaching Assistant for the undergraduate Artificial Intelligence course with mentorship from **Prof. Tucker Hermans**. For this course, in addition to grading duties, I designed some assignments, exams, and delivered lectures as guest instructor for a week. Some of the materials I designed for the course are provided below.
+As part of my teaching mentorship at University of Utah, I served as Teaching Assistant for the undergraduate Artificial Intelligence course with mentorship from **Prof. Tucker Hermans**. For this course, in addition to grading duties, I designed some assignments, exams, and delivered lectures as guest instructor for a week. Some of the materials that I designed for the course are provided in this post.
 
 ## Assignments
 
