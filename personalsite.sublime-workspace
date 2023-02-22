@@ -136,19 +136,17 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 466,
-				"encoding": "UTF-8",
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_layouts/default.html",
+			"file": "_posts/2016-12-09-exploring-computer-science-fall-2016.markdown",
 			"settings":
 			{
-				"buffer_size": 2221,
+				"buffer_size": 1520,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -157,80 +155,33 @@
 			"file": "teaching/index.html",
 			"settings":
 			{
-				"buffer_size": 1092,
+				"buffer_size": 1476,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "teaching/_posts/2021-12-21-teaching-sample.md",
+			"file": "_posts/2022-12-16-comp1010.markdown",
 			"settings":
 			{
-				"buffer_size": 318,
+				"buffer_size": 474,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "publications/_posts/2017-12-20-LISA.md",
+			"file": "_posts/2022-01-01-Evaluating.md",
 			"settings":
 			{
-				"buffer_size": 422,
+				"buffer_size": 386,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "teaching/_posts/2016-12-31-syllabusFIGS.md",
+			"file": "personalsite.sublime-project",
 			"settings":
 			{
-				"buffer_size": 353,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "teaching/_posts/2022-12-01-teachingstatement.md",
-			"settings":
-			{
-				"buffer_size": 131,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "1. Northeastern University Main Campus --Khoury College of Computer Science (Teaching Professor)\n2. Northeastern University Vancouver Campus -- Khoury College of Computer Science (Teaching Professor)\n3. Northwestern University -- CS Department (Faculty of Instruction)\n4. University of Utah -- Kahlert School of Computing (Lecturing Professor)\n5. University of Pennsylvania -- Department of Computer and Information Science (Lecturer)\n6. University of Denver -- Department of Computer Science (Teaching Series Professor)\n7. Colorado College -- Assistant Professor (Reseach + Teaching)\n8. Amherst College -- Assistant Professor (Research + Teaching)\n9. Boston University -- Department of Electrical and Computer Engineering (Teaching Faculty)\n10. Temple University -- Department of Computer and Information Sciences (Asssistant Professor of Instruction)\n11. Stevens Institute of Technology -- Department of Computer Science (Teaching Faculty)\n12. Rensselaer Polytechnic Institute (RPI) -- Department of Computer Science (Lecturer)",
-			"settings":
-			{
-				"buffer_size": 1029,
-				"line_ending": "Unix",
-				"name": "1. Northeastern University Main Campus --Khoury Co"
-			}
-		},
-		{
-			"contents": "Package Control Messages\n========================\n\nJekyll\n------\n\n  ***************************************************************************************************\n         \n                ÛÛÛ           ÛÛÛÛÛ                 ÛÛÛÛ  ÛÛÛÛ      ÛÛÛÛÛÛÛÛ        ÛÛÛÛÛ   \n               °°°           °°ÛÛÛ                 °°ÛÛÛ °°ÛÛÛ     ÛÛÛ°°°°ÛÛÛ     ÛÛÛ°°°ÛÛÛ \n               ÛÛÛÛÛ  ÛÛÛÛÛÛ  °ÛÛÛ ÛÛÛÛÛ ÛÛÛÛÛ ÛÛÛÛ °ÛÛÛ  °ÛÛÛ    °°°    °ÛÛÛ    ÛÛÛ   °°ÛÛÛ\n              °°ÛÛÛ  ÛÛÛ°°ÛÛÛ °ÛÛÛ°°ÛÛÛ °°ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ       ÛÛÛÛÛÛ°    °ÛÛÛ    °ÛÛÛ\n               °ÛÛÛ °ÛÛÛÛÛÛÛ  °ÛÛÛÛÛÛ°   °ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ      °°°°°°ÛÛÛ   °ÛÛÛ    °ÛÛÛ\n               °ÛÛÛ °ÛÛÛ°°°   °ÛÛÛ°°ÛÛÛ  °ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ     ÛÛÛ   °ÛÛÛ   °°ÛÛÛ   ÛÛÛ \n               °ÛÛÛ °°ÛÛÛÛÛÛ  ÛÛÛÛ ÛÛÛÛÛ °°ÛÛÛÛÛÛÛ  ÛÛÛÛÛ ÛÛÛÛÛ   °°ÛÛÛÛÛÛÛÛ  ÛÛ °°°ÛÛÛÛÛ°  \n               °ÛÛÛ  °°°°°°  °°°° °°°°°   °°°°°ÛÛÛ °°°°° °°°°°     °°°°°°°°  °°    °°°°°°   \n           ÛÛÛ °ÛÛÛ                       ÛÛÛ °ÛÛÛ                                          \n          °°ÛÛÛÛÛÛ                       °°ÛÛÛÛÛÛ                                           \n           °°°°°°                         °°°°°°                                            \n\n\n                                  Thanks for installing sublime-jekyll.\n                                     We hope you like what you see.\n                              \n                              http://23maverick23.github.io/sublime-jekyll/\n                            sublime-jekyll is licensed under the MIT license.\n         \n  ***************************************************************************************************\n\n\n  This package should help maintaining Jekyll sites and posts easier by providing access to new post\n  and draft shortcuts, key Liquid template tags and filters, as well as common filter completions and\n  YAML front-matter templates for standardizing your posts.\n\n\n  After installing this package, make sure you configure your User settings file. The most important\n  piece of this is to set your `posts_path` and `drafts_path` locations. This can also be set on a\n  per-project basis later if you have multiple Jekyll sites you wish to manage.\n\n\n  If you have any questions or issues, please visit the homepage where you can watch a short video and\n  get quick access to RTFD documentation and Github to log issues.",
-			"settings":
-			{
-				"buffer_size": 2358,
-				"line_ending": "Unix",
-				"name": "Package Control Messages",
-				"read_only": true,
-				"scratch": true
-			}
-		},
-		{
-			"file": "teaching/_posts/2022-05-01-syllabuscomp1010.md",
-			"settings":
-			{
-				"buffer_size": 238,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "teaching/_posts/2022-05-01-course-eval.md",
-			"settings":
-			{
-				"buffer_size": 206,
+				"buffer_size": 316,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -247,6 +198,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"uplo",
+				"Jekyll: Insert upload"
+			],
+			[
+				"new ",
+				"Jekyll: New post"
+			],
+			[
+				"up",
+				"Jekyll: Insert upload"
+			],
+			[
+				"upl",
+				"Jekyll: Insert upload"
+			],
+			[
+				"jekyll",
+				"Jekyll: Insert upload"
+			],
 			[
 				"install ",
 				"Package Control: Install Package"
@@ -278,18 +249,29 @@
 	[
 		"/Users/abc/Desktop/Website",
 		"/Users/abc/Desktop/Website/rushsangs.github.io",
-		"/Users/abc/Desktop/Website/rushsangs.github.io/_layouts",
-		"/Users/abc/Desktop/Website/rushsangs.github.io/blog",
-		"/Users/abc/Desktop/Website/rushsangs.github.io/blog/_posts",
-		"/Users/abc/Desktop/Website/rushsangs.github.io/pdfs",
-		"/Users/abc/Desktop/Website/rushsangs.github.io/teaching",
-		"/Users/abc/Desktop/Website/rushsangs.github.io/teaching/_posts"
+		"/Users/abc/Desktop/Website/rushsangs.github.io/_posts",
+		"/Users/abc/Desktop/Website/rushsangs.github.io/_site",
+		"/Users/abc/Desktop/Website/rushsangs.github.io/images",
+		"/Users/abc/Desktop/Website/rushsangs.github.io/teaching"
 	],
 	"file_history":
 	[
+		"/Users/abc/Desktop/Website/rushsangs.github.io/_posts/2016-12-31-syllabusFIGS.md",
+		"/Users/abc/Desktop/Website/rushsangs.github.io/_posts/2019-05-10-intro-to-ai.markdown",
+		"/var/folders/2l/zpwqh64s3bd7bzz1pnh0yw0h0000gn/T/TemporaryItems/NSIRD_screencaptureui_H0dFs2/Screen Shot 2022-12-16 at 9.00.59 PM.png",
+		"/Users/abc/Desktop/Website/rushsangs.github.io/.gitignore",
+		"/Users/abc/Desktop/Website/rushsangs.github.io/_site/index.html",
+		"/Users/abc/Desktop/Website/rushsangs.github.io/Gemfile",
+		"/Users/abc/Desktop/Website/rushsangs.github.io/personalsite.sublime-project",
 		"/Users/abc/Desktop/Website/rushsangs.github.io/teaching/_posts/2022-05-01-course-eval.md",
+		"/Users/abc/Desktop/Website/rushsangs.github.io/teaching/_posts/2022-05-01-syllabuscomp1010.md",
 		"/Users/abc/Desktop/Website/rushsangs.github.io/teaching/_posts/2022-12-01-teachingstatement.md",
+		"/Users/abc/Desktop/Website/rushsangs.github.io/teaching/_posts/2016-12-31-syllabusFIGS.md",
+		"/Users/abc/Desktop/Website/rushsangs.github.io/index.html",
+		"/Users/abc/Desktop/Website/rushsangs.github.io/_layouts/default.html",
+		"/Users/abc/Desktop/Website/rushsangs.github.io/teaching/index.html",
 		"/Users/abc/Desktop/Website/rushsangs.github.io/teaching/_posts/2021-12-21-teaching-sample.md",
+		"/Users/abc/Desktop/Website/rushsangs.github.io/publications/_posts/2017-12-20-LISA.md",
 		"/Users/abc/Desktop/Website/rushsangs.github.io/blog/_posts/2014-04-30-hank-quinlan-site-launched.md",
 		"/Users/abc/Desktop/Website/rushsangs.github.io/teaching/teaching.html",
 		"/Users/abc/Desktop/Website/rushsangs.github.io/_layouts/teaching.html",
@@ -308,8 +290,6 @@
 		"/Users/abc/Downloads/res_5.csv",
 		"/Users/abc/Downloads/res_6.csv",
 		"/Users/abc/Downloads/res_7.csv",
-		"/Users/abc/Desktop/Website/rushsangs.github.io/_layouts/default.html",
-		"/Users/abc/Desktop/Website/rushsangs.github.io/index.html",
 		"/Users/abc/Desktop/Website/rushsangs.github.io/_config.yml",
 		"/Users/abc/Downloads/headspace-study-qks-qas-5a93afa0abd9.json",
 		"/private/var/folders/2l/zpwqh64s3bd7bzz1pnh0yw0h0000gn/T/fz3temp-2/answers.txt",
@@ -427,64 +407,62 @@
 	"groups":
 	[
 		{
-			"selected": 8,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 466,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								442,
-								212
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "_layouts/default.html",
+					"file": "_posts/2016-12-09-exploring-computer-science-fall-2016.markdown",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2221,
+						"buffer_size": 1520,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								485,
-								485
+								3,
+								3
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -493,20 +471,19 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1092,
+						"buffer_size": 1476,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								629,
-								629
+								1411,
+								1411
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
@@ -514,24 +491,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "teaching/_posts/2021-12-21-teaching-sample.md",
+					"file": "_posts/2022-12-16-comp1010.markdown",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 318,
+						"buffer_size": 474,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								188,
-								188
+								474,
+								474
 							]
 						],
 						"settings":
@@ -542,52 +519,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "publications/_posts/2017-12-20-LISA.md",
-					"semi_transient": false,
+					"file": "_posts/2022-01-01-Evaluating.md",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 422,
+						"buffer_size": 386,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								421,
-								315
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "teaching/_posts/2016-12-31-syllabusFIGS.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 353,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								305,
-								305
+								0,
+								0
 							]
 						],
 						"settings":
@@ -602,146 +551,31 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "teaching/_posts/2022-12-01-teachingstatement.md",
+					"buffer": 5,
+					"file": "personalsite.sublime-project",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 131,
+						"buffer_size": 316,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								55,
-								55
+								297,
+								297
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1029,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								344,
-								342
-							]
-						],
-						"settings":
-						{
-							"auto_name": "1. Northeastern University Main Campus --Khoury Co",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2358,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2266,
-								2266
-							]
-						],
-						"settings":
-						{
-							"auto_indent": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_width": 2,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "teaching/_posts/2022-05-01-syllabuscomp1010.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 238,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								162,
-								162
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "teaching/_posts/2022-05-01-course-eval.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 206,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								135,
-								135
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -828,7 +662,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 247.0,
+	"side_bar_width": 438.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

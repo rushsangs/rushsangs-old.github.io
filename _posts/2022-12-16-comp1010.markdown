@@ -1,0 +1,15 @@
+---
+title: Programming for All 1, (Fall 2021 - Current)
+layout: post
+category: teaching
+thumbnail: "/uploads/COMP1010/Screen Shot 2022-12-16 at 9.01.54 PM.png"
+---
+I taught Programming for All 1 (COMP1010) remotely at the University of Utah Asia Campus in Fall 2021, and in-person at University of Utah Main Campus in Spring 2022. I am currently teaching it again in Spring 2023 at the main campus.
+
+## Evaluations
+
+[Mid-semester informal feedback (CSV), Spring 2022]({{ site.baseurl }}/uploads/COMP1010/MidSemesterFeedback.csv)
+
+[End-semester feedback, Spring 2022]({{ site.baseurl }}/uploads/COMP1010/MainFeedback.pdf)
+
+
